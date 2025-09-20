@@ -11,7 +11,7 @@ from langchain_community.utilities.sql_database import SQLDatabase
 
 # 🔹 MySQL Database Credentials
 db_user = "root"
-db_password = "root"
+db_password = "root_password"
 db_host = "localhost"
 db_name = "hitesh"
 
